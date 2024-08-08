@@ -7,7 +7,7 @@ Contents:
 Files from first payload to the final one:
 - `firstpayload.py`
 - `dropper.py`
- `gruppe.py`
+- `gruppe.py`
 
 ## Analysis: How it works and how it was hidden.
 
