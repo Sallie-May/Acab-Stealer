@@ -22,3 +22,4 @@ He's way to hide it is pretty simple. It use `;` to hide inside of python progra
 Disclaimer:
 This project is for educational purposes only. Misuse of this information is prohibited.
 
+RUN IT IN A VM IM NOT RESPONSIBLE FOR YOUR ACTIONS
